@@ -4,3 +4,4 @@
 3. Banana
 4. Kiwi
 5. Mango
+6. Cherry
